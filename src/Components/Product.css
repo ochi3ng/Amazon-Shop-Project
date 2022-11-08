@@ -1,0 +1,15 @@
+.title{
+
+}
+.image{
+    width: 20vw;
+    height: 20vw;
+   
+}
+.productContainer{
+    max-width: 300px;
+    border-radius: solid 6px gray;
+}
+.price{
+color:#00A8E1;
+}

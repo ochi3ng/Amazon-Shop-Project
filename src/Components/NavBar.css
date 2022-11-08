@@ -1,0 +1,70 @@
+.nav{
+    width: 70px;
+    margin: 15px;
+}
+.logo-basket{
+    width: 30px;
+    height:30px;
+    border-radius:700%;
+    margin:15px;
+  }
+  .logo-header{
+    position: relative;
+  }
+  .number{
+    position: absolute; 
+    top: -13%;
+    right: 30%;
+    color: red;
+    font-size: small;
+  }
+  .navbar{
+    text-align: center;
+    display: flex;
+   justify-content: space-between;
+   background-color:#141B24;
+   height: 70px;
+}
+.input{
+   
+    margin: 8px;
+    width: 700px;
+    padding: 7px;
+    height: 40px;
+    margin: 0px;   
+}
+.search{
+    color: white;
+    width: 35px;
+    height: 40px;
+    background-color: #FF9900;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu-icon{
+    background-color: white;
+    padding: 0px;
+    margin: 15px;
+}
+.photo{
+    width: 30px;
+    height:30px; 
+    border-radius:700%;
+    margin:15px;
+ 
+}
+.select{
+color: white;
+margin: 0px;
+padding: 10px;
+}
+.category{
+    color: white;
+    margin:outo;
+    padding: -2px;
+    font-size: large;
+}

@@ -1,0 +1,11 @@
+.body{
+    background-color:#EEF3F9;
+    height: 700px;
+    text-align: center;
+}
+.body-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
