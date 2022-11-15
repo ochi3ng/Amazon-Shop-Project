@@ -5,7 +5,11 @@
 }
 .body-header{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    
 
+}
+.body-containerp{
+    display: flex;
+    flex-wrap: wrap;
+   
 }

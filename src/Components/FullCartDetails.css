@@ -1,0 +1,16 @@
+.cartimage{
+    height: 20vw;
+    width: 20vw;
+}
+.fullDetails{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-fullcart{
+    background-color: gray;
+    margin-bottom: 2%;
+}
+.Header-cart{
+    width: 200px;
+}

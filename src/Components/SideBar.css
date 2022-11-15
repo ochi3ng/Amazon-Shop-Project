@@ -1,0 +1,25 @@
+.sidebar{
+    height: 700px;
+    min-width: fit-content;
+    background-color:#141B24;
+    color: white;
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 250px;
+}
+.sidebap{
+    padding: 20px;
+}
+.paragraph{
+ cursor: pointer;
+}
+.paragraph:hover{
+    color:gray;
+}
+.more-view{
+    cursor: pointer;
+    color: red;
+}
+.more-view:hover{
+    color: blue;
+}

@@ -1,0 +1,10 @@
+.EmptyPage{
+    height: 300px;
+    text-align: center;
+    padding-top: 150px;
+    background-color: blue;
+}
+.homepagebatton{
+    color: red;
+    background-color: green;
+}

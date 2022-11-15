@@ -10,7 +10,12 @@ const counterSlice=createSlice(({
   name:"counter",
   initialState:{
     posts: [],
-    loading: false
+    loading: false,
+    cart:[],
+},
+reducers: {
+AddToCart: (state, action) => {
+state.cart.push(action.payload)}
 },
 extraReducers:{
   [getPosts.pending]:(state,action)=>{
@@ -26,4 +31,5 @@ extraReducers:{
   },
 },
 }));
+export const {AddToCart}=counterSlice.actions
 export default counterSlice.reducer

@@ -1,0 +1,37 @@
+.bar{
+    height: 450px;
+    min-width: fit-content;
+    background-color:#FF9900;
+    color: white;
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+}
+.img{
+    width: 15vw;
+    padding-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.view{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+.view:hover{
+    color:brown;
+}
+.text{
+    cursor: pointer;
+}
+.text:hover{
+    color: green;
+}
+.heading{
+    cursor: pointer;
+}
+.heading:hover{
+    color: blue;
+}
